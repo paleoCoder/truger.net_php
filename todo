@@ -1,20 +1,9 @@
 for truger.net page
 
-u36659278
-
-   completed
-      got the db tables set up for basic data struct
-
 
    add page info table
    	copyright desc
-   	copyright link
-
-   add rest of articles to db
-
-   move over css when everthing else is done
-
-   
+   	copyright link 
 
    phase 2
       build admin pages to update/add/remove/disable articles
