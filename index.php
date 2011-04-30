@@ -79,6 +79,11 @@ function getPageArticles($db, $pageID){
 
 	// gett all page articles that have a sort order > 0 that are associated with the given pageID
    $sql = "select * from page_article where pageID = $pageID and sort_order > 0 order by sort_order";
+   $sql = 'SELECT *'
+        . ' FROM page_article'
+        . " WHERE `pageID` = $pageID"
+        . ' and `sort_order` > 0'
+        . ' ORDER BY sort_order LIMIT 0, 30 '; 
    $res = mysqli_query($db, $sql);
    
    if($res){
