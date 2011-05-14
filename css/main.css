@@ -173,12 +173,7 @@ a[href*='rogueunit'] {
   background-position: left;
   padding-left: 22px;
 }
-a[href*='paleojunkies'] {
-  background-image: url('../images/icons/PNG/16px/blogger.png');
-  background-repeat: no-repeat;
-  background-position: left;
-  padding-left: 22px;
-}
+
 a[href*='linkedin'] {
   background-image: url('../images/icons/PNG/16px/linkedin.png');
   background-repeat: no-repeat;
