@@ -137,6 +137,12 @@ footer{
 }
 
 /* Icons */
+a {
+  background-image: url('../images/icons/PNG/16px/button-blue.png');
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-left: 22px;
+}
 a[href*='blog.truger.net'] {
   background-image: url('../images/icons/PNG/16px/blogger.png');
   background-repeat: no-repeat;
@@ -187,6 +193,12 @@ a[href*='twitter'] {
 }
 a[href*='slayingthecodedragon'] {
   background-image: url('../images/icons/PNG/16px/blogger.png');
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-left: 22px;
+}
+a[href*='quickbart'] {
+  background-image: url('../images/icons/PNG/16px/QuickBART.png');
   background-repeat: no-repeat;
   background-position: left;
   padding-left: 22px;
