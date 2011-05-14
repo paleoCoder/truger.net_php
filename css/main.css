@@ -143,12 +143,6 @@ a {
   background-position: left;
   padding-left: 22px;
 }
-a[href*='blog.truger.net'] {
-  background-image: url('../images/icons/PNG/16px/blogger.png');
-  background-repeat: no-repeat;
-  background-position: left;
-  padding-left: 22px;
-}
 a[href*='github'] {
   background-image: url('../images/icons/PNG/16px/github.png');
   background-repeat: no-repeat;
@@ -161,13 +155,6 @@ a[href*='flickr'] {
   background-position: left;
   padding-left: 22px;
 }
-a[href*='rogueunit'] {
-  background-image: url('../images/icons/PNG/16px/blogger.png');
-  background-repeat: no-repeat;
-  background-position: left;
-  padding-left: 22px;
-}
-
 a[href*='linkedin'] {
   background-image: url('../images/icons/PNG/16px/linkedin.png');
   background-repeat: no-repeat;
@@ -176,12 +163,6 @@ a[href*='linkedin'] {
 }
 a[href*='twitter'] {
   background-image: url('../images/icons/PNG/16px/twitter.png');
-  background-repeat: no-repeat;
-  background-position: left;
-  padding-left: 22px;
-}
-a[href*='slayingthecodedragon'] {
-  background-image: url('../images/icons/PNG/16px/blogger.png');
   background-repeat: no-repeat;
   background-position: left;
   padding-left: 22px;
