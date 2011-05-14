@@ -149,12 +149,6 @@ a[href*='blog.truger.net'] {
   background-position: left;
   padding-left: 22px;
 }
-a[href*='blogspot'] {
-  background-image: url('../images/icons/PNG/16px/blogger.png');
-  background-repeat: no-repeat;
-  background-position: left;
-  padding-left: 22px;
-}
 a[href*='github'] {
   background-image: url('../images/icons/PNG/16px/github.png');
   background-repeat: no-repeat;
