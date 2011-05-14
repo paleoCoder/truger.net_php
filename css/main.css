@@ -137,8 +137,14 @@ footer{
 }
 
 /* Icons */
-a {
-  background-image: url('../images/icons/PNG/16px/button-blue.png');
+a[href*='blog.truger.net'] {
+  background-image: url('../images/icons/PNG/16px/blogger.png');
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-left: 22px;
+}
+a[href*='paleojunkies.com'] {
+  background-image: url('../images/icons/PNG/16px/blogger.png');
   background-repeat: no-repeat;
   background-position: left;
   padding-left: 22px;
